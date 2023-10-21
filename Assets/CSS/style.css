@@ -109,14 +109,15 @@ footer {
 }
 
 .card-1 {
-    background-image: url(homework-1.jpg);
+    background-image:url("../images/homework-1.jpg")
+    /*background-image: url(Assets\images\homework-1.jpg);*/
 }
 
 .card-2 {
-background-image: url(red-led.jpg);
+background-image: url("../images/red-led.jpg");
 }
 
 .card-3 {
-    background-image: url(calculator.jpeg);
+    background-image: url("../images/calculator.jpeg");
 }
 
